@@ -1,0 +1,10 @@
+With the recent changes, the mangos-three repository for WoW Cataclysm
+is considered stable, and has been moved to
+
+http://github.com/mangos/server
+
+into the `master` branch. The previous `master` branch for WoW WotLK
+has been moved to
+
+http://github.com/mangos-wotlk/server
+
